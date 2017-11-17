@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at PWM.v(19): always construct contains both blocking and non-blocking assignments File: C:/Users/psmith04/Documents/PWM2/PWM.v Line: 19
